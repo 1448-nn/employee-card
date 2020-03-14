@@ -1,9 +1,17 @@
+.bod{
+    background: black;
+}
+.bakimage{
+    background-image: url(dax3.png); 
+    background-size: 100% 100%;
+}
 .main{
     background-color: white;
     width: 300px;
     height: 450px;
     margin: auto;
     border-radius:20px ;
+    
 
 }
 .top{
@@ -26,6 +34,7 @@
     text-align: center;
     margin:100px 0px 0px 70px ;
     font-size:40px ;
+    font-family: 'Times New Roman', Times, sans-serif;
 }
 .name{
     margin: 0px 20px 0px 80px;
@@ -33,12 +42,12 @@
     font-size: 30px;
 
 }
-.emp{
+.proffesion{
     margin: 0px 0px 0px 100px;
     color: black;
 
 }
-.plac{
+.place{
     margin: 70px 20px 100px 90px;
     color: black;
 }
